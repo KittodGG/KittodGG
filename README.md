@@ -6,7 +6,7 @@
 </h1>
 
 ```elixir
-- I'm 15 Years Old
+- I'm 16 Years Old
 - I'm a Highschool students who want to become fullstack developers
 - Schooling at SMKN 1 Cimahi
 - Software Engineering 
