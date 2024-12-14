@@ -44,3 +44,9 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1080">
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kittodgg&show_icons=true&locale=en&layout=compact" alt="kittodgg" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kittodgg&show_icons=true&theme=dracula&locale=en" alt="kittodgg" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kittodgg&" alt="kittodgg" /></p>
