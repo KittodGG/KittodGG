@@ -3,7 +3,7 @@
   
   <h1>
     <samp>
-      &gt; I'm <b><a target="_blank" href="https://kitnamf.my.id">Kitna Mahardika Favian</a></b>
+      > I'm <b><a target="_blank" href="https://kitnamf.my.id">Kitna Mahardika Favian</a> <</b>
     </samp>
   </h1>
 
