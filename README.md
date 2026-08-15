@@ -46,144 +46,94 @@ end
 
 <div align="center">
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│  ✦  PROJECT LAB // KITNA.MF                                  │
-│  ├─ AI & RESEARCH   ├─ MOBILE & FINANCE   ├─ FULLSTACK SYSTEMS│
-│  └─ 09 builds  ·  04 public links  ·  private work stays private │
-╰──────────────────────────────────────────────────────────────╯
-```
+`build` → `test` → `learn` → `ship` &nbsp;·&nbsp; `09 builds` &nbsp;·&nbsp; `04 public links`
 
 </div>
 
-> `build → test → learn → ship` — a small selection of systems, experiments, and products I enjoy turning into something real.
+> A focused selection of systems, experiments, and products. Public links are marked with `↗`; private and local work is intentionally shown without repository links.
 
 #### 🧠 Intelligence & Impact
 
 <details open>
-<summary>╭─ <strong>HoaxHunter</strong> · <code>LOCAL PROTOTYPE</code> · <code>AI + COMMUNITY</code> ─╮</summary>
+<summary><strong>01 · HoaxHunter</strong> &nbsp; <code>🟡 LOCAL PROTOTYPE</code> <code>AI + COMMUNITY</code></summary>
 
-```text
-╭─ INPUT ──────────────────────────────────────────────────────╮
-│ URL / screenshot / text                                      │
-├─ PIPELINE ──────────────────────────────────────────────────┤
-│ claim extraction → search fan-out → content fetch            │
-│ stance detection → grounded synthesis → verdict              │
-╰─ OUTPUT ─────────────────────────────────────────────────────╯
-```
+AI-assisted fact-checking for Indonesian users. Submit a URL, screenshot, or text and turn a messy claim into a structured, source-grounded verdict.
 
-AI-assisted fact-checking platform for Indonesian users. It turns messy claims into a structured, source-grounded verdict through a six-stage research pipeline.
-
-`Next.js` · `NestJS` · `Supabase` · `Prisma` · `Gemini` · `Search APIs`
+`Next.js` · `NestJS` · `Supabase` · `Prisma` · `Gemini`
 
 </details>
 
 <details>
-<summary>╭─ <strong>IHSG Bandarmology</strong> · <code>LOCAL PROTOTYPE</code> · <code>DATA PIPELINE</code> ─╮</summary>
+<summary><strong>02 · IHSG Bandarmology</strong> &nbsp; <code>🟡 LOCAL PROTOTYPE</code> <code>DATA PIPELINE</code></summary>
 
-```text
-IDX DATA  ──►  OHLCV + NEWS  ──►  SCORING  ──►  DASHBOARD
-  957 tickers       sentiment           signals       Supabase
-```
+IDX stock-screening dashboard built around real market data, OHLCV processing, news sentiment, scoring, and a Supabase-backed frontend.
 
-Data-driven IDX stock-screening dashboard built around real market data, scraping, OHLCV processing, news sentiment, and scoring.
-
-`Python` · `Next.js` · `Supabase` · `Pandas` · `RSS/news pipelines`
+`Python` · `Next.js` · `Pandas` · `Supabase`
 
 </details>
 
 <details>
-<summary>╭─ <strong>EcoVerse / Evorin</strong> · <code>PRIVATE BUILD</code> · <code>SMART RECYCLING</code> ─╮</summary>
+<summary><strong>03 · EcoVerse / Evorin</strong> &nbsp; <code>🔒 PRIVATE BUILD</code> <code>SMART RECYCLING</code></summary>
 
-```text
-BOTTLE ──► AI CAMERA ──► ECOPOINTS ──► QR REDEEM ──► REWARDS
-```
+Smart recycling ecosystem that turns bottle detection into EcoPoints through an AI camera, dashboard, QR flow, mobile app, and rewards history.
 
-Smart recycling ecosystem where bottle detection becomes digital EcoPoints. The system connects a camera-assisted detector, operator dashboard, QR flow, mobile app, and rewards history.
-
-`Python computer vision` · `Flutter` · `Node.js` · `MySQL` · `Railway`
+`YOLOv8` · `Flutter` · `Node.js` · `MySQL`
 
 </details>
 
 #### 📱 Product & Mobile
 
 <details open>
-<summary>╭─ <a href="https://github.com/KittodGG/Bitichil"><strong>Bitichil ↗</strong></a> · <code>PUBLIC REPOSITORY</code> · <code>FINTECH MOBILE</code> ─╮</summary>
-
-```text
-₿  SAVE TOGETHER  ·  TRACK MARKET  ·  GROW THE HABIT
-```
+<summary><a href="https://github.com/KittodGG/Bitichil"><strong>04 · ₿ Bitichil ↗</strong></a> &nbsp; <code>🟢 PUBLIC REPOSITORY</code> <code>FINTECH MOBILE</code></summary>
 
 Bitcoin savings tracker for couples with Firebase authentication, market data, charts, and finance-focused mobile interactions.
 
-`React Native` · `Expo` · `Firebase` · `Indodax API` · `Moti` · `Reanimated`
+`React Native` · `Expo` · `Firebase` · `Indodax API`
 
 </details>
 
 <details>
-<summary>╭─ <a href="https://github.com/KittodGG/Glaze"><strong>Glaze ↗</strong></a> · <code>PUBLIC REPOSITORY</code> · <code>MOBILE EXPERIMENT</code> ─╮</summary>
+<summary><a href="https://github.com/KittodGG/Glaze"><strong>05 · ✨ Glaze ↗</strong></a> &nbsp; <code>🟢 PUBLIC REPOSITORY</code> <code>MOBILE EXPERIMENT</code></summary>
 
-```text
-┌─ DISCOVER ─┐  ┌─ ORGANIZE ─┐  ┌─ ACT ─┐
-│  AI assist  │  │  smooth UI │  │  ship │
-└─────────────┘  └────────────┘  └──────┘
-```
+Mobile application experiment focused on refined UI, responsive navigation, AI-assisted features, and a consistent component system.
 
-Mobile application experiment focused on a refined interface, responsive navigation, AI-assisted features, and a consistent component system.
-
-`React Native` · `Expo` · `Gemini` · `Firebase` · `Zustand` · `NativeWind`
+`React Native` · `Expo` · `Gemini` · `Firebase` · `Zustand`
 
 </details>
 
 <details>
-<summary>╭─ <a href="https://github.com/KittodGG/SIAGA-Sistem-Indikator-Alarm-Gas-Aktif-"><strong>SIAGA ↗</strong></a> · <code>PUBLIC REPOSITORY</code> · <code>IoT ALERT</code> ─╮</summary>
+<summary><a href="https://github.com/KittodGG/SIAGA-Sistem-Indikator-Alarm-Gas-Aktif-"><strong>06 · 🚨 SIAGA ↗</strong></a> &nbsp; <code>🟢 PUBLIC REPOSITORY</code> <code>IoT ALERT</code></summary>
 
-```text
-MQ-02 SENSOR ──► ESP8266 ──► THRESHOLD CHECK ──► WHATSAPP ALERT
-```
+Gas-alert indicator built around an ESP8266 and MQ-02 sensor, with WhatsApp notifications when gas levels exceed the configured threshold.
 
-Gas-alert indicator system built around an ESP8266 and MQ-02 sensor, with notifications when gas levels exceed the configured threshold.
-
-`ESP8266` · `MQ-02` · `Java` · `IoT` · `WhatsApp notification flow`
+`ESP8266` · `MQ-02` · `IoT` · `WhatsApp`
 
 </details>
 
 #### 🧱 Fullstack Systems & Craft
 
 <details open>
-<summary>╭─ <strong>WidgetPorto</strong> · <code>LOCAL PROTOTYPE</code> · <code>REST API</code> ─╮</summary>
+<summary><strong>07 · WidgetPorto</strong> &nbsp; <code>🟡 LOCAL PROTOTYPE</code> <code>REST API</code></summary>
 
-```text
-AUTH ──► HOLDINGS ──► MARKET STATUS ──► SPARKLINE ──► P/L
-```
+NestJS REST API for a shadow portfolio tracker covering authentication, holdings, market status, fee calculation, sparkline data, and scheduled price polling.
 
-NestJS REST API for a shadow portfolio tracker that mirrors Stockbit-style portfolio workflows, including authentication, holdings, market status, fee calculation, and scheduled price polling.
-
-`NestJS` · `TypeScript` · `PostgreSQL` · `Prisma` · `JWT` · `Scheduler`
+`NestJS` · `TypeScript` · `PostgreSQL` · `Prisma`
 
 </details>
 
 <details>
-<summary>╭─ <strong>CitiaCashflow / Rev-CM</strong> · <code>PRIVATE BUILD</code> · <code>FULLSTACK FINANCE</code> ─╮</summary>
+<summary><strong>08 · CitiaCashflow / Rev-CM</strong> &nbsp; <code>🔒 PRIVATE BUILD</code> <code>FULLSTACK FINANCE</code></summary>
 
-```text
-CASH IN  ──►  CATEGORIZE  ──►  ANALYZE  ──►  MAKE BETTER DECISIONS
-```
-
-Fullstack financial platform for structured cash-flow management, with a focus on clear UI, reliable backend architecture, and maintainable data access.
+Fullstack financial platform for structured cash-flow management with a focus on clear UI, reliable backend architecture, and maintainable data access.
 
 `Next.js` · `NestJS` · `Prisma` · `PostgreSQL`
 
 </details>
 
 <details>
-<summary>╭─ <a href="https://kitnamf.my.id"><strong>Personal Portfolio ↗</strong></a> · <code>LIVE SITE</code> · <code>CREATIVE FRONTEND</code> ─╮</summary>
+<summary><a href="https://kitnamf.my.id"><strong>09 · 🎞️ Personal Portfolio ↗</strong></a> &nbsp; <code>🔗 LIVE SITE</code> <code>CREATIVE FRONTEND</code></summary>
 
-```text
-MOTION ──► STORY ──► INTERACTION ──► A BETTER FIRST IMPRESSION
-```
-
-Interactive showcase and animation playground for experimenting with motion, scrolling, and presentation of selected work.
+Interactive showcase and animation playground for motion, scrolling, and presentation of selected work.
 
 `React` · `GSAP` · `Framer Motion` · `Lenis`
 
@@ -191,24 +141,27 @@ Interactive showcase and animation playground for experimenting with motion, scr
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│  PRIVATE ≠ HIDDEN  ·  LOCAL ≠ UNFINISHED  ·  PUBLIC ≠ DONE  │
-│  Every build is a checkpoint — not the final destination.   │
-└──────────────────────────────────────────────────────────────┘
-```
+<sub>🟡 Local prototype &nbsp;·&nbsp; 🔒 Private build &nbsp;·&nbsp; 🟢 Public repository &nbsp;·&nbsp; 🔗 Live site</sub>
 
 </div>
 
 ### 📊 GitHub Stats
 
+<p align="center"><sub>ACTIVITY OVERVIEW</sub></p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KittodGG&theme=github_dark&title_color=4fd6c8&text_color=9aa4b2&bg_color=0c0f14&border_color=2e3540&icon_color=b8a2f2&chart_color=4fd6c8" width="100%" alt="GitHub profile details and contribution activity" />
 </p>
 
+<p align="center"><sub>GITHUB STATS</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sub>MOST USED LANGUAGES</sub></p>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KittodGG&theme=github_dark&title_color=4fd6c8&text_color=9aa4b2&bg_color=0c0f14&border_color=2e3540&icon_color=b8a2f2&chart_color=4fd6c8" width="49%" alt="GitHub statistics" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KittodGG&theme=github_dark&title_color=4fd6c8&text_color=9aa4b2&bg_color=0c0f14&border_color=2e3540&icon_color=b8a2f2&chart_color=4fd6c8" width="49%" alt="Most used repository languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KittodGG&theme=github_dark&title_color=4fd6c8&text_color=9aa4b2&bg_color=0c0f14&border_color=2e3540&icon_color=b8a2f2&chart_color=4fd6c8" width="49%" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KittodGG&theme=github_dark&title_color=4fd6c8&text_color=9aa4b2&bg_color=0c0f14&border_color=2e3540&icon_color=b8a2f2&chart_color=4fd6c8" width="49%" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KittodGG&custom_title=Contribution%20Activity&bg_color=0c0f14&color=9aa4b2&line=4fd6c8&point=f59014&area_color=4fd6c8&area=true&hide_border=true&radius=8" width="100%" alt="Contribution activity graph" />
 </p>
 
 ---
