@@ -44,14 +44,88 @@ end
 
 ### 🚀 Featured Projects
 
-> *“Gak cuma ngoding, tapi bikin solusi yang beneran jalan.”*
+> A snapshot of the products, experiments, and systems I enjoy building — from AI-assisted fact-checking to mobile finance and environmental technology.
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Rev-CM / CitiaCashflow](https://github.com/KittodGG/CitiaCashflow-Web)** | Fullstack financial platform for organized cash-flow management. | Next.js, NestJS, Prisma, PostgreSQL |
-| **[EcoVerse / Evorin](https://github.com/KittodGG/Chima2025_Evorin_EcoVerse)** | Environmental dashboard combining object detection with a responsive web interface. | React, Python, NestJS |
-| **[AttendanceQr](https://github.com/KittodGG/CitiaCashflow-App)** | QR-based attendance system focused on fast integration and a straightforward user experience. | Laravel, MySQL |
-| **[Personal Portfolio](https://kitnamf.my.id)** | Interactive showcase and animation playground. | React, GSAP, Framer Motion |
+<details open>
+<summary><strong>HoaxHunter</strong> · <code>LOCAL PROTOTYPE</code></summary>
+
+AI-assisted fact-checking and community platform for Indonesian users. It accepts a URL, screenshot, or text, then runs a six-stage research pipeline to produce a verdict grounded in relevant sources.
+
+**Stack:** Next.js · NestJS · Supabase · Prisma · Gemini · Search APIs
+
+</details>
+
+<details open>
+<summary><strong>IHSG Bandarmology</strong> · <code>LOCAL PROTOTYPE</code></summary>
+
+Data-driven IDX stock-screening dashboard built around real market data. The project combines scraping, OHLCV processing, news sentiment, scoring, and a Supabase-backed dashboard.
+
+**Stack:** Python · Next.js · Supabase · Pandas · RSS/news pipelines
+
+</details>
+
+<details open>
+<summary><strong>WidgetPorto</strong> · <code>LOCAL PROTOTYPE</code></summary>
+
+NestJS REST API for a shadow portfolio tracker that mirrors Stockbit-style portfolio workflows. It covers authentication, holdings, market status, sparkline data, fee calculation, and scheduled price polling.
+
+**Stack:** NestJS · TypeScript · PostgreSQL · Prisma · JWT · Scheduler
+
+</details>
+
+<details open>
+<summary><strong>EcoVerse / Evorin</strong> · <code>PRIVATE BUILD</code></summary>
+
+Smart recycling ecosystem that turns bottle detection into digital EcoPoints. A camera-assisted detector, web dashboard, QR flow, mobile app, rewards, and redemption history work together as one showcase system.
+
+**Stack:** Python computer vision · Flutter · Node.js · MySQL · Railway
+
+</details>
+
+<details>
+<summary><strong>CitiaCashflow / Rev-CM</strong> · <code>PRIVATE BUILD</code></summary>
+
+Fullstack financial platform for structured cash-flow management, with a focus on clear UI, reliable backend architecture, and maintainable data access.
+
+**Stack:** Next.js · NestJS · Prisma · PostgreSQL
+
+</details>
+
+<details>
+<summary><a href="https://github.com/KittodGG/Bitichil"><strong>Bitichil</strong></a> · <code>PUBLIC REPOSITORY</code></summary>
+
+Bitcoin savings tracker for couples with a polished mobile-first experience, Firebase authentication, market data, charts, and finance-focused interactions.
+
+**Stack:** React Native · Expo · Firebase · Indodax API · Moti · Reanimated
+
+</details>
+
+<details>
+<summary><a href="https://github.com/KittodGG/Glaze"><strong>Glaze</strong></a> · <code>PUBLIC REPOSITORY</code></summary>
+
+Mobile application experiment focused on a refined interface, responsive navigation, AI-assisted features, and a consistent component system.
+
+**Stack:** React Native · Expo · Gemini · Firebase · Zustand · NativeWind
+
+</details>
+
+<details>
+<summary><a href="https://github.com/KittodGG/SIAGA-Sistem-Indikator-Alarm-Gas-Aktif-"><strong>SIAGA</strong></a> · <code>PUBLIC REPOSITORY</code></summary>
+
+Gas-alert indicator system built around an ESP8266 and MQ-02 sensor, with a WhatsApp notification flow when gas levels exceed the configured threshold.
+
+**Stack:** ESP8266 · MQ-02 · Java · IoT · WhatsApp notification flow
+
+</details>
+
+<details>
+<summary><a href="https://kitnamf.my.id"><strong>Personal Portfolio</strong></a> · <code>LIVE SITE</code></summary>
+
+Interactive showcase and animation playground for experimenting with motion, scrolling, and presentation of selected work.
+
+**Stack:** React · GSAP · Framer Motion · Lenis
+
+</details>
 
 ### 📊 GitHub Stats
 
